@@ -19,7 +19,7 @@ status-website:
   baseUrl: /API-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: API Monitoring
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "*API Monitor* allows you to watch your favorite APIs health status"
   introMessage: This is a monitoring page for APIs
   theme: night
   navbar:
