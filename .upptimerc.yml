@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /API-monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/vavab/API-monitoring/blob/master/monitor.png
   name: API Monitoring
   introTitle: "*API Monitor* allows you to watch your favorite APIs health status"
   introMessage: This is a monitoring page for APIs
