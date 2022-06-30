@@ -21,7 +21,7 @@ status-website:
   name: API Monitoring
   introTitle: "*API Monitor* allows you to watch your favorite APIs health status"
   introMessage: This is a monitoring page for APIs
-  theme: night
+  theme: light
   navbar:
     - title: Status
       href: /
