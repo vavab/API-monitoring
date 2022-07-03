@@ -1,7 +1,7 @@
 url: https://opendata.paris.fr/api/v2/catalog/datasets/chantiers-a-paris/records?limit=10&offset=0&timezone=UTC
 status: up
 code: 200
-responseTime: 185
-lastUpdated: 2022-07-03T15:22:08.225Z
+responseTime: 127
+lastUpdated: 2022-07-03T15:43:11.687Z
 startTime: Thu Jun 30 2022 12:18:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
