@@ -1,7 +1,7 @@
 url: https://opendata.paris.fr/api/v2/catalog/datasets/velib-disponibilite-en-temps-reel/records?limit=10&offset=0&timezone=UTC
 status: up
 code: 200
-responseTime: 426
-lastUpdated: 2022-07-21T04:50:28.114Z
+responseTime: 538
+lastUpdated: 2022-07-21T05:32:16.902Z
 startTime: Thu Jun 30 2022 12:18:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
